@@ -1,0 +1,4 @@
+22:46:32 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+22:46:40 INFO  TestBase - Login success with data email noa@gmail.com and data passwordNnoa12345$
+22:46:52 INFO  TestBase - Login success with data email sonya@gmail.com and data passwordSs12345$
+22:46:56 INFO  TestBase - Login success with data email totti@mail.uz and data passwordTtotti10new$
