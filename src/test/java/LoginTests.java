@@ -13,14 +13,14 @@ import java.util.List;
 
 public class LoginTests extends TestBase{
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void preCond(){
         if(app.getHelperUser().isLogged()){
             app.getHelperUser().logout();
         }
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void postCond(){
       //  if(app.getHelperUser().isElementPresent(By.xpath("//*[@class='positive-button ng-star-inserted']")))
         app.getHelperUser().clickOkButton();
@@ -44,7 +44,7 @@ public class LoginTests extends TestBase{
 
     }
 
-    @Test
+    @Test(groups = {"smoke"})
     public void loginSuccessWithModel(){
 
         User user = new User().withEmail("noa@gmail.com").withPassword("Nnoa12345$");
@@ -72,7 +72,7 @@ public class LoginTests extends TestBase{
     Assert.assertFalse(app.getHelperUser().isLogged());
     //Assert.assertFalse(app.getHelperUser().isElementPresent(By.xpath("//button[@type='submit']")));
    // Assert.assertEquals(app.getHelperUser().getErrorText(),"It'snot look like email");
-    Assert.assertFalse(app.getHelperUser().isYallaBtnNotActive());
+    Assert.assertTrue(app.getHelperUser().isYallaBtnNotActive());
 
     }
 

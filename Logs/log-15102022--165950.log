@@ -1,0 +1,2 @@
+16:59:59 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+17:00:08 INFO  TestBase - Registration success: User{email='dana199@mail.com', password='Zz123456$', name='Zoa', lastName='Dow', phone='null'}

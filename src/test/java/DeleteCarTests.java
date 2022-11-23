@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class DeleteCarTests extends TestBase{
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void preCond(){
         if(!app.getHelperUser().isLogged()){
             app.getHelperUser().login(new User().withEmail("noa@gmail.com").withPassword("Nnoa12345$"));

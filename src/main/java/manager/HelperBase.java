@@ -45,6 +45,10 @@ WebDriver wd;
         wd.findElement(By.xpath("//*[@type='submit']")).click();
     }
 
+    public void submitWithoutWait(){
+        wd.findElement(By.xpath("//*[@type='submit']")).click();
+    }
+
 
     public boolean isElementPresent(By locator){
         return wd.findElements(locator).size()>0;

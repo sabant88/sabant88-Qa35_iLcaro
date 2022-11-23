@@ -68,7 +68,9 @@ public class HelperUser extends HelperBase{
 
     public boolean isYallaBtnNotActive(){
 
-        return wd.findElement(By.xpath("//button[@type='submit']")).isEnabled();
+        boolean res =isElementPresent(By.cssSelector("button[disabled]"));
+
+        return res &&!wd.findElement(By.cssSelector("[type='submit']")).isEnabled();
     }
 
     public String getTitleMessage() {
@@ -110,5 +112,10 @@ public class HelperUser extends HelperBase{
         fillLoginForm(user);
         submit();
         clickOkButton();
+    }
+
+    public boolean isErrorMessageDisplayed() {
+      String text =   wd.findElement(By.cssSelector("div.ng-star-inserted")).getText();
+       return text.equals("You can't pick date before today");
     }
 }

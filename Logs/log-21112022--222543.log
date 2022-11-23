@@ -1,0 +1,153 @@
+22:25:50 INFO  manager.ApplicationManager - All tests start in  ChromeDriver
+22:26:00 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:03 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:03 INFO  manager.MyListener - List size is -->0
+22:26:03 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Sign up ']
+22:26:03 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Sign up ']
+22:26:03 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+22:26:03 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+22:26:04 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+22:26:04 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+22:26:05 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #name
+22:26:05 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #name
+22:26:05 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #lastName
+22:26:05 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #lastName
+22:26:05 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+22:26:06 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+22:26:06 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:06 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:06 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:07 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:07 INFO  manager.MyListener - List size is -->1
+22:26:07 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+22:26:07 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+22:26:07 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+22:26:07 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+22:26:07 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+22:26:07 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+22:26:10 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:13 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:13 INFO  manager.MyListener - List size is -->0
+22:26:13 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:13 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:13 INFO  manager.MyListener - List size is -->1
+22:26:13 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+22:26:13 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+22:26:13 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+22:26:13 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+22:26:13 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+22:26:13 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+22:26:13 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+22:26:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+22:26:14 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:14 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:14 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:15 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:15 INFO  manager.MyListener - List size is -->1
+22:26:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+22:26:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+22:26:16 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: h2.message
+22:26:16 INFO  manager.MyListener - After Find Element By -->By.cssSelector: h2.message
+22:26:18 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:18 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:18 INFO  manager.MyListener - List size is -->1
+22:26:18 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:18 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+22:26:18 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:18 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+22:26:18 INFO  manager.MyListener - List size is -->1
+22:26:18 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=Bmw, model=5, year=2001, engine=2.0, fuel=Petrol, gear=MT, wD=RWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=10160, distance=5000, price=99.9, featureS=plus, about=strong car)
+22:26:19 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Let the car work ']
+22:26:19 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Let the car work ']
+22:26:20 INFO  manager.MyListener - Before Find Element By -->By.id: pickUpPlace
+22:26:20 INFO  manager.MyListener - After Find Element By -->By.id: pickUpPlace
+22:26:20 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+22:26:21 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+22:26:22 INFO  manager.MyListener - Before Find Element By -->By.id: make
+22:26:22 INFO  manager.MyListener - After Find Element By -->By.id: make
+22:26:22 INFO  manager.MyListener - Before Find Element By -->By.id: model
+22:26:22 INFO  manager.MyListener - After Find Element By -->By.id: model
+22:26:23 INFO  manager.MyListener - Before Find Element By -->By.id: year
+22:26:23 INFO  manager.MyListener - After Find Element By -->By.id: year
+22:26:23 INFO  manager.MyListener - Before Find Element By -->By.id: engine
+22:26:23 INFO  manager.MyListener - After Find Element By -->By.id: engine
+22:26:24 INFO  manager.MyListener - Before Find Element By -->By.id: doors
+22:26:24 INFO  manager.MyListener - After Find Element By -->By.id: doors
+22:26:24 INFO  manager.MyListener - Before Find Element By -->By.id: seats
+22:26:24 INFO  manager.MyListener - After Find Element By -->By.id: seats
+22:26:24 INFO  manager.MyListener - Before Find Element By -->By.id: class
+22:26:24 INFO  manager.MyListener - After Find Element By -->By.id: class
+22:26:25 INFO  manager.MyListener - Before Find Element By -->By.id: fuelConsumption
+22:26:25 INFO  manager.MyListener - After Find Element By -->By.id: fuelConsumption
+22:26:25 INFO  manager.MyListener - Before Find Element By -->By.id: serialNumber
+22:26:25 INFO  manager.MyListener - After Find Element By -->By.id: serialNumber
+22:26:25 INFO  manager.MyListener - Before Find Element By -->By.id: price
+22:26:25 INFO  manager.MyListener - After Find Element By -->By.id: price
+22:26:25 INFO  manager.MyListener - Before Find Element By -->By.id: distance
+22:26:26 INFO  manager.MyListener - After Find Element By -->By.id: distance
+22:26:26 INFO  manager.MyListener - Before Find Element By -->By.xpath: //input[@placeholder='Type feature']
+22:26:26 INFO  manager.MyListener - After Find Element By -->By.xpath: //input[@placeholder='Type feature']
+22:26:26 INFO  manager.MyListener - Before Find Element By -->By.id: about
+22:26:26 INFO  manager.MyListener - After Find Element By -->By.id: about
+22:26:26 INFO  manager.MyListener - Before Find Element By -->By.id: fuel
+22:26:26 INFO  manager.MyListener - After Find Element By -->By.id: fuel
+22:26:27 INFO  manager.MyListener - Before Find Element By -->By.id: gear
+22:26:27 INFO  manager.MyListener - After Find Element By -->By.id: gear
+22:26:27 INFO  manager.MyListener - Before Find Element By -->By.id: wheelsDrive
+22:26:27 INFO  manager.MyListener - After Find Element By -->By.id: wheelsDrive
+22:26:27 INFO  manager.MyListener - Before Find Element By -->By.id: photos
+22:26:27 INFO  manager.MyListener - After Find Element By -->By.id: photos
+22:26:27 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:27 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+22:26:31 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+22:26:31 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+22:26:31 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+22:26:32 INFO  manager.MyListener - Before Find Element By -->By.xpath: //button[text()='Search cars']
+22:26:32 INFO  manager.MyListener - After Find Element By -->By.xpath: //button[text()='Search cars']
+22:26:32 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: .header a.logo
+22:26:32 INFO  manager.MyListener - After Find Element By -->By.cssSelector: .header a.logo
+22:26:33 INFO  manager.MyListener - Before Find Element By -->By.id: city
+22:26:33 INFO  manager.MyListener - After Find Element By -->By.id: city
+22:26:33 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+22:26:34 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+22:26:34 INFO  manager.MyListener - Before Find Element By -->By.id: dates
+22:26:34 INFO  manager.MyListener - After Find Element By -->By.id: dates
+22:26:34 INFO  manager.HelperSearch - OS is --->Windows 10
+22:26:34 INFO  manager.MyListener - Before Find Element By -->By.id: dates
+22:26:34 INFO  manager.MyListener - After Find Element By -->By.id: dates
+22:26:34 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:34 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:34 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:34 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.xpath: //div[text()=' 8 ']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.xpath: //div[text()=' 8 ']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.cssSelector: button[aria-label$='Next month']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.xpath: //div[text()=' 10 ']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.xpath: //div[text()=' 10 ']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:35 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:26:35 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:26:36 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //div[@class='car-img-container ng-star-inserted']
+22:26:38 INFO  manager.MyListener - After Find Elements By -->By.xpath: //div[@class='car-img-container ng-star-inserted']
+22:26:38 INFO  manager.MyListener - List size is -->10
+22:26:38 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: input[aria-haspopup='dialog']
+22:26:38 INFO  manager.MyListener - After Find Element By -->By.cssSelector: input[aria-haspopup='dialog']

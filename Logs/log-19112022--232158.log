@@ -1,0 +1,333 @@
+23:23:46 INFO  manager.ApplicationManager - All tests start in  Firefox
+23:23:56 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:23:59 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:23:59 INFO  manager.MyListener - List size is -->0
+23:23:59 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Sign up ']
+23:23:59 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Sign up ']
+23:23:59 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:24:00 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:24:00 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:24:00 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:24:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #name
+23:24:01 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #name
+23:24:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #lastName
+23:24:01 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #lastName
+23:24:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:01 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:24:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:24:02 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:06 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:06 INFO  manager.MyListener - List size is -->0
+23:24:06 INFO  manager.MyListener - Before Find Elements By -->By.cssSelector: button[disabled]
+23:24:06 INFO  manager.MyListener - After Find Elements By -->By.cssSelector: button[disabled]
+23:24:06 INFO  manager.MyListener - List size is -->1
+23:24:06 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: [type='submit']
+23:24:06 INFO  manager.MyListener - After Find Element By -->By.cssSelector: [type='submit']
+23:24:06 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:06 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:08 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:11 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:11 INFO  manager.MyListener - List size is -->0
+23:24:11 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:14 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:14 INFO  manager.MyListener - List size is -->0
+23:24:14 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Sign up ']
+23:24:14 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Sign up ']
+23:24:14 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:24:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:24:14 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:24:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:24:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #name
+23:24:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #name
+23:24:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #lastName
+23:24:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #lastName
+23:24:16 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:16 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:16 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:24:16 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:24:17 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:20 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:20 INFO  manager.MyListener - List size is -->0
+23:24:20 INFO  manager.MyListener - Before Find Elements By -->By.cssSelector: button[disabled]
+23:24:20 INFO  manager.MyListener - After Find Elements By -->By.cssSelector: button[disabled]
+23:24:20 INFO  manager.MyListener - List size is -->1
+23:24:20 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: [type='submit']
+23:24:20 INFO  manager.MyListener - After Find Element By -->By.cssSelector: [type='submit']
+23:24:20 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:20 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:22 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:25 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:25 INFO  manager.MyListener - List size is -->0
+23:24:25 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:28 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:28 INFO  manager.MyListener - List size is -->0
+23:24:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Sign up ']
+23:24:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Sign up ']
+23:24:28 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:24:28 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:24:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:24:29 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:24:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #name
+23:24:29 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #name
+23:24:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #lastName
+23:24:29 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #lastName
+23:24:30 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:30 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:24:30 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:24:30 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:30 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:30 INFO  manager.MyListener - List size is -->1
+23:24:30 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:24:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:24:31 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:24:31 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:24:31 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:31 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+23:24:33 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:36 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:36 INFO  manager.MyListener - List size is -->0
+23:24:36 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:36 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:36 INFO  manager.MyListener - List size is -->1
+23:24:36 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:24:36 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:24:36 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:24:37 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:24:37 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:24:37 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:24:38 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:24:38 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:24:38 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:24:38 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:24:39 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:42 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:42 INFO  manager.MyListener - List size is -->0
+23:24:42 INFO  manager.MyListener - Before Find Elements By -->By.cssSelector: button[disabled]
+23:24:42 INFO  manager.MyListener - After Find Elements By -->By.cssSelector: button[disabled]
+23:24:42 INFO  manager.MyListener - List size is -->1
+23:24:42 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: [type='submit']
+23:24:42 INFO  manager.MyListener - After Find Element By -->By.cssSelector: [type='submit']
+23:24:44 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:47 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:47 INFO  manager.MyListener - List size is -->0
+23:24:47 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:50 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:50 INFO  manager.MyListener - List size is -->0
+23:24:50 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:24:50 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:24:50 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:24:50 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:24:50 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:24:50 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:24:51 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:24:51 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:24:51 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:54 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:24:54 INFO  manager.MyListener - List size is -->0
+23:24:54 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:24:54 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:24:54 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: h2.message
+23:24:54 INFO  manager.MyListener - After Find Element By -->By.cssSelector: h2.message
+23:24:54 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:24:54 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:24:54 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:24:54 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:24:56 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:56 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:56 INFO  manager.MyListener - List size is -->1
+23:24:56 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:56 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:24:57 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:00 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:00 INFO  manager.MyListener - List size is -->0
+23:25:00 INFO  TestBase - Test loginSuccess
+23:25:00 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:00 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:25:01 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:25:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:25:01 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:25:02 INFO  TestBase - user data with mail--noa@gmail.com and password--Nnoa12345$
+23:25:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:25:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:25:03 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:03 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:03 INFO  manager.MyListener - List size is -->1
+23:25:03 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:25:03 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:25:11 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:12 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:12 INFO  manager.MyListener - List size is -->1
+23:25:12 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:12 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:13 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:13 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:13 INFO  manager.MyListener - List size is -->1
+23:25:13 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:13 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:14 INFO  TestBase - Login success with data email noa@gmail.com and data password Nnoa12345$
+23:25:14 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:14 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:14 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:25:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:25:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:25:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:25:16 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:25:16 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:25:17 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:17 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:17 INFO  manager.MyListener - List size is -->1
+23:25:17 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:25:17 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:25:24 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:24 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:24 INFO  manager.MyListener - List size is -->1
+23:25:24 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:24 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:25 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:25 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:25 INFO  manager.MyListener - List size is -->1
+23:25:25 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:25 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:26 INFO  TestBase - Login success with data email sonya@gmail.com and data password Ss12345$
+23:25:26 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:26 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:27 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:25:27 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:25:28 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:25:28 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:25:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:25:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:25:29 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:29 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:29 INFO  manager.MyListener - List size is -->1
+23:25:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:25:29 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:25:36 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:37 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:37 INFO  manager.MyListener - List size is -->1
+23:25:37 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:37 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:37 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:37 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:37 INFO  manager.MyListener - List size is -->1
+23:25:37 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:37 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:38 INFO  TestBase - Login success with data email totti10@mail.uz and data password Ttotti10new$
+23:25:38 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:38 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:39 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:25:39 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:25:40 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:25:40 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:25:40 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:25:40 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:25:41 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:41 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:41 INFO  manager.MyListener - List size is -->1
+23:25:41 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:25:41 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:25:48 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:48 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:48 INFO  manager.MyListener - List size is -->1
+23:25:48 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:48 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:25:49 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:49 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:49 INFO  manager.MyListener - List size is -->1
+23:25:49 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:49 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:25:50 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:50 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:25:51 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:25:51 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:25:52 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:25:52 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:25:53 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:25:53 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:25:53 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:54 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:25:54 INFO  manager.MyListener - List size is -->1
+23:25:54 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:25:54 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:26:02 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:02 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:02 INFO  manager.MyListener - List size is -->1
+23:26:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:02 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:02 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:02 INFO  manager.MyListener - List size is -->1
+23:26:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:03 INFO  TestBase - Login success with modelUser{email='totti10@mail.uz', password='Ttotti10new$', name='null', lastName='null', phone='null'}
+23:26:03 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:03 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:04 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:26:04 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:26:05 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:26:05 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:26:05 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:26:05 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:26:06 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:06 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:06 INFO  manager.MyListener - List size is -->1
+23:26:06 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:26:06 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:26:13 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:13 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:13 INFO  manager.MyListener - List size is -->1
+23:26:13 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:13 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:14 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:14 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:14 INFO  manager.MyListener - List size is -->1
+23:26:14 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:14 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:15 INFO  TestBase - Login success with modelUser{email='noa@gmail.com', password='Nnoa12345$', name='null', lastName='null', phone='null'}
+23:26:15 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:15 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:16 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:26:16 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:26:16 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:26:16 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:26:17 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:26:17 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:26:18 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:18 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:18 INFO  manager.MyListener - List size is -->1
+23:26:18 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:26:18 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:26:25 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:25 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:25 INFO  manager.MyListener - List size is -->1
+23:26:25 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:26 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:26 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:26 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:26 INFO  manager.MyListener - List size is -->1
+23:26:26 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:26 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Logout ']
+23:26:27 INFO  TestBase - Login success with modelUser{email='sonya@gmail.com', password='Ss12345$', name='null', lastName='null', phone='null'}
+23:26:27 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:27 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:26:28 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:26:28 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:26:28 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:26:28 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:26:29 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:26:29 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:26:29 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:29 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:26:29 INFO  manager.MyListener - List size is -->1
+23:26:29 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:26:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:26:30 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: h2.message
+23:26:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: h2.message
+23:26:32 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:32 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:32 INFO  manager.MyListener - List size is -->1
+23:26:32 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:26:32 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']

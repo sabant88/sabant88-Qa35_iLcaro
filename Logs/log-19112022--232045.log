@@ -1,0 +1,27 @@
+23:20:57 INFO  manager.ApplicationManager - All tests start in  Firefox
+23:21:08 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:21:11 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:21:11 INFO  manager.MyListener - List size is -->0
+23:21:11 INFO  TestBase - Test loginSuccess
+23:21:11 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:21:11 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:21:12 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:21:12 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:21:12 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:21:12 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:21:13 INFO  TestBase - user data with mail--noa@gmail.com and password--Nnoa12345$
+23:21:13 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:21:13 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:21:13 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:21:14 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:21:14 INFO  manager.MyListener - List size is -->1
+23:21:14 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:21:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:21:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: h2.message
+23:21:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: h2.message
+23:21:15 INFO  TestBase - asserts passed
+23:21:17 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:21:17 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:21:17 INFO  manager.MyListener - List size is -->1
+23:21:17 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:21:17 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']

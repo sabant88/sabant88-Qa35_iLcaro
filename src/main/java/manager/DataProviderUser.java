@@ -3,6 +3,7 @@ package manager;
 import models.User;
 import org.testng.annotations.DataProvider;
 
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -21,6 +22,7 @@ public class DataProviderUser {
 
     @DataProvider
     public Iterator<Object[]> dataModel(){
+        int i = (int) ((System.currentTimeMillis() / 1000) % 3600);
 
         List<Object[]> list = new ArrayList<>();
         list.add(new Object[]{new User().withPassword("Ttotti10new$").withEmail("totti10@mail.uz")});
@@ -29,7 +31,22 @@ public class DataProviderUser {
         return list.iterator();
     }
 
-    @DataProvider // primer Data Provider
+    @DataProvider
+    public Iterator<Object[]> dataReg() throws IOException {
+
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(new FileReader(new File("src/test/resources/registration.csv")));
+        String line = reader.readLine();
+        while (line!=null){
+            String[] split = line.split(",");
+            list.add(new Object[]{new User().withName(split[0]).withLastName(split[1]).withEmail(split[2]).withPassword(split[3])});
+           line = reader.readLine();
+        }
+        return list.iterator();
+    }
+
+    @DataProvider // dugma Data Provider
     public Iterator<Object[]> XXX(){
 
         List<Object[]> list = new ArrayList<>();

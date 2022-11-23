@@ -1,0 +1,3 @@
+18:46:59 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+18:47:11 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=BMW, model=M5, year=2020, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=108108, distance=4500, price=99.9, featureS=plus, about=strong car)
+18:47:22 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=BMW, model=M5, year=2020, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=108108, distance=4500, price=99.9, featureS=plus, about=strong car)

@@ -1,0 +1,20 @@
+23:07:13 INFO  manager.ApplicationManager - All tests start in  EdgeDriver
+23:07:22 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:07:25 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:07:25 INFO  manager.MyListener - List size is -->0
+23:07:25 INFO  TestBase - Test loginSuccess
+23:07:25 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:07:25 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:07:25 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:07:26 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:07:27 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:07:27 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:07:28 INFO  TestBase - user data with mail--noa@gmail.com and password--Nnoa12345$
+23:07:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:07:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:07:28 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:07:32 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:07:32 INFO  manager.MyListener - List size is -->0
+23:07:34 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:07:37 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:07:37 INFO  manager.MyListener - List size is -->0

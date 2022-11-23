@@ -1,0 +1,22 @@
+22:01:52 INFO  manager.ApplicationManager - All tests start in  ChromeDriver
+22:01:59 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: .header a.logo
+22:01:59 INFO  manager.MyListener - After Find Element By -->By.cssSelector: .header a.logo
+22:01:59 INFO  manager.MyListener - Before Find Element By -->By.id: city
+22:02:00 INFO  manager.MyListener - After Find Element By -->By.id: city
+22:02:01 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+22:02:02 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+22:02:02 INFO  manager.MyListener - Before Find Element By -->By.id: dates
+22:02:02 INFO  manager.MyListener - After Find Element By -->By.id: dates
+22:02:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //div[text()=' 25 ']
+22:02:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //div[text()=' 25 ']
+22:02:02 INFO  manager.MyListener - Before Find Element By -->By.xpath: //div[text()=' 30 ']
+22:02:02 INFO  manager.MyListener - After Find Element By -->By.xpath: //div[text()=' 30 ']
+22:02:03 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:02:03 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:02:03 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+22:02:03 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+22:02:03 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //div[@class='car-img-container ng-star-inserted']
+22:02:04 INFO  manager.MyListener - After Find Elements By -->By.xpath: //div[@class='car-img-container ng-star-inserted']
+22:02:04 INFO  manager.MyListener - List size is -->1
+22:02:04 INFO  manager.MyListener - Before Find Element By -->By.xpath: //label[.='Price range ($/per day):']
+22:02:05 INFO  manager.MyListener - After Find Element By -->By.xpath: //label[.='Price range ($/per day):']

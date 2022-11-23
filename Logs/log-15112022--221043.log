@@ -1,0 +1,10 @@
+22:10:50 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+22:11:20 INFO  TestBase - Test loginSuccess
+22:11:21 INFO  TestBase - user data with mail--noa@gmail.com and password--Nnoa12345$
+22:11:22 INFO  TestBase - asserts passed
+22:11:25 INFO  TestBase - Login success with data email noa@gmail.com and data password Nnoa12345$
+22:11:30 INFO  TestBase - Login success with data email sonya@gmail.com and data password Ss12345$
+22:11:34 INFO  TestBase - Login success with data email totti10@mail.uz and data password Ttotti10new$
+22:11:43 INFO  TestBase - Login success with modelUser{email='totti10@mail.uz', password='Ttotti10new$', name='null', lastName='null', phone='null'}
+22:11:47 INFO  TestBase - Login success with modelUser{email='noa@gmail.com', password='Nnoa12345$', name='null', lastName='null', phone='null'}
+22:11:52 INFO  TestBase - Login success with modelUser{email='sonya@gmail.com', password='Ss12345$', name='null', lastName='null', phone='null'}

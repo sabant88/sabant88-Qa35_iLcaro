@@ -1,0 +1,5 @@
+22:08:52 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+22:09:38 INFO  TestBase - Registration success: User{email='dana1999@mail.com', password='Zz123456$', name='Zoa', lastName='Dow', phone='null'}
+22:09:51 INFO  TestBase - Registration success: User{email='kinoa1999@mail.com', password='Nn123456$', name='Noa', lastName='Snow', phone='null'}
+22:10:04 INFO  TestBase - Registration success: User{email='piter1999@mail.com', password='Kk123456$', name='Katy', lastName='Fox', phone='null'}
+22:10:17 INFO  TestBase - Registration success: User{email='fred1999@mail.com', password='Jj123456$', name='John', lastName='Wicck', phone='null'}

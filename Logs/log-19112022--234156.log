@@ -1,0 +1,254 @@
+23:42:05 INFO  manager.ApplicationManager - All tests start in  ChromeDriver
+23:42:12 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:15 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:15 INFO  manager.MyListener - List size is -->0
+23:42:15 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[.=' Log in ']
+23:42:15 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[.=' Log in ']
+23:42:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+23:42:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+23:42:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+23:42:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+23:42:16 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:16 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:18 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:42:18 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:42:18 INFO  manager.MyListener - List size is -->1
+23:42:18 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:42:18 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+23:42:18 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=Bmw, model=5, year=2001, engine=2.0, fuel=Petrol, gear=MT, wD=RWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=101063, distance=5000, price=99.9, featureS=plus, about=strong car)
+23:42:19 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:19 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:19 INFO  manager.MyListener - Before Find Element By -->By.id: pickUpPlace
+23:42:19 INFO  manager.MyListener - After Find Element By -->By.id: pickUpPlace
+23:42:20 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+23:42:20 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+23:42:21 INFO  manager.MyListener - Before Find Element By -->By.id: make
+23:42:21 INFO  manager.MyListener - After Find Element By -->By.id: make
+23:42:21 INFO  manager.MyListener - Before Find Element By -->By.id: model
+23:42:21 INFO  manager.MyListener - After Find Element By -->By.id: model
+23:42:21 INFO  manager.MyListener - Before Find Element By -->By.id: year
+23:42:21 INFO  manager.MyListener - After Find Element By -->By.id: year
+23:42:22 INFO  manager.MyListener - Before Find Element By -->By.id: engine
+23:42:22 INFO  manager.MyListener - After Find Element By -->By.id: engine
+23:42:22 INFO  manager.MyListener - Before Find Element By -->By.id: doors
+23:42:22 INFO  manager.MyListener - After Find Element By -->By.id: doors
+23:42:22 INFO  manager.MyListener - Before Find Element By -->By.id: seats
+23:42:22 INFO  manager.MyListener - After Find Element By -->By.id: seats
+23:42:22 INFO  manager.MyListener - Before Find Element By -->By.id: class
+23:42:22 INFO  manager.MyListener - After Find Element By -->By.id: class
+23:42:23 INFO  manager.MyListener - Before Find Element By -->By.id: fuelConsumption
+23:42:23 INFO  manager.MyListener - After Find Element By -->By.id: fuelConsumption
+23:42:23 INFO  manager.MyListener - Before Find Element By -->By.id: serialNumber
+23:42:23 INFO  manager.MyListener - After Find Element By -->By.id: serialNumber
+23:42:23 INFO  manager.MyListener - Before Find Element By -->By.id: price
+23:42:23 INFO  manager.MyListener - After Find Element By -->By.id: price
+23:42:24 INFO  manager.MyListener - Before Find Element By -->By.id: distance
+23:42:24 INFO  manager.MyListener - After Find Element By -->By.id: distance
+23:42:24 INFO  manager.MyListener - Before Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:24 INFO  manager.MyListener - After Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:25 INFO  manager.MyListener - Before Find Element By -->By.id: about
+23:42:25 INFO  manager.MyListener - After Find Element By -->By.id: about
+23:42:25 INFO  manager.MyListener - Before Find Element By -->By.id: fuel
+23:42:25 INFO  manager.MyListener - After Find Element By -->By.id: fuel
+23:42:25 INFO  manager.MyListener - Before Find Element By -->By.id: gear
+23:42:25 INFO  manager.MyListener - After Find Element By -->By.id: gear
+23:42:26 INFO  manager.MyListener - Before Find Element By -->By.id: wheelsDrive
+23:42:26 INFO  manager.MyListener - After Find Element By -->By.id: wheelsDrive
+23:42:26 INFO  manager.MyListener - Before Find Element By -->By.id: photos
+23:42:26 INFO  manager.MyListener - After Find Element By -->By.id: photos
+23:42:27 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:27 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:27 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:27 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:28 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:42:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:42:30 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:30 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:30 INFO  manager.MyListener - Before Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:30 INFO  manager.MyListener - After Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:30 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:30 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:30 INFO  manager.MyListener - List size is -->1
+23:42:30 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=BMW, model=M5, year=2020, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=10-101861, distance=4500, price=99.9, featureS=plus, about=strong car)
+23:42:31 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:31 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:32 INFO  manager.MyListener - Before Find Element By -->By.id: pickUpPlace
+23:42:32 INFO  manager.MyListener - After Find Element By -->By.id: pickUpPlace
+23:42:32 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+23:42:32 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+23:42:33 INFO  manager.MyListener - Before Find Element By -->By.id: make
+23:42:33 INFO  manager.MyListener - After Find Element By -->By.id: make
+23:42:33 INFO  manager.MyListener - Before Find Element By -->By.id: model
+23:42:33 INFO  manager.MyListener - After Find Element By -->By.id: model
+23:42:33 INFO  manager.MyListener - Before Find Element By -->By.id: year
+23:42:33 INFO  manager.MyListener - After Find Element By -->By.id: year
+23:42:33 INFO  manager.MyListener - Before Find Element By -->By.id: engine
+23:42:34 INFO  manager.MyListener - After Find Element By -->By.id: engine
+23:42:34 INFO  manager.MyListener - Before Find Element By -->By.id: doors
+23:42:34 INFO  manager.MyListener - After Find Element By -->By.id: doors
+23:42:34 INFO  manager.MyListener - Before Find Element By -->By.id: seats
+23:42:34 INFO  manager.MyListener - After Find Element By -->By.id: seats
+23:42:34 INFO  manager.MyListener - Before Find Element By -->By.id: class
+23:42:34 INFO  manager.MyListener - After Find Element By -->By.id: class
+23:42:34 INFO  manager.MyListener - Before Find Element By -->By.id: fuelConsumption
+23:42:34 INFO  manager.MyListener - After Find Element By -->By.id: fuelConsumption
+23:42:35 INFO  manager.MyListener - Before Find Element By -->By.id: serialNumber
+23:42:35 INFO  manager.MyListener - After Find Element By -->By.id: serialNumber
+23:42:35 INFO  manager.MyListener - Before Find Element By -->By.id: price
+23:42:35 INFO  manager.MyListener - After Find Element By -->By.id: price
+23:42:35 INFO  manager.MyListener - Before Find Element By -->By.id: distance
+23:42:35 INFO  manager.MyListener - After Find Element By -->By.id: distance
+23:42:35 INFO  manager.MyListener - Before Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:35 INFO  manager.MyListener - After Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.id: about
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.id: about
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.id: fuel
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.id: fuel
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.id: gear
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.id: gear
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.id: wheelsDrive
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.id: wheelsDrive
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.id: photos
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.id: photos
+23:42:36 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:36 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:37 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:37 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:38 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:42:40 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:42:40 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:40 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:40 INFO  manager.MyListener - Before Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:40 INFO  manager.MyListener - After Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:40 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:40 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:40 INFO  manager.MyListener - List size is -->1
+23:42:40 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=BMW, model=M5, year=2020, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=10-101450, distance=4500, price=99.9, featureS=plus, about=strong car)
+23:42:41 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:41 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:41 INFO  manager.MyListener - Before Find Element By -->By.id: pickUpPlace
+23:42:41 INFO  manager.MyListener - After Find Element By -->By.id: pickUpPlace
+23:42:41 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+23:42:42 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+23:42:42 INFO  manager.MyListener - Before Find Element By -->By.id: make
+23:42:42 INFO  manager.MyListener - After Find Element By -->By.id: make
+23:42:43 INFO  manager.MyListener - Before Find Element By -->By.id: model
+23:42:43 INFO  manager.MyListener - After Find Element By -->By.id: model
+23:42:43 INFO  manager.MyListener - Before Find Element By -->By.id: year
+23:42:43 INFO  manager.MyListener - After Find Element By -->By.id: year
+23:42:43 INFO  manager.MyListener - Before Find Element By -->By.id: engine
+23:42:43 INFO  manager.MyListener - After Find Element By -->By.id: engine
+23:42:43 INFO  manager.MyListener - Before Find Element By -->By.id: doors
+23:42:43 INFO  manager.MyListener - After Find Element By -->By.id: doors
+23:42:44 INFO  manager.MyListener - Before Find Element By -->By.id: seats
+23:42:44 INFO  manager.MyListener - After Find Element By -->By.id: seats
+23:42:44 INFO  manager.MyListener - Before Find Element By -->By.id: class
+23:42:44 INFO  manager.MyListener - After Find Element By -->By.id: class
+23:42:44 INFO  manager.MyListener - Before Find Element By -->By.id: fuelConsumption
+23:42:44 INFO  manager.MyListener - After Find Element By -->By.id: fuelConsumption
+23:42:44 INFO  manager.MyListener - Before Find Element By -->By.id: serialNumber
+23:42:44 INFO  manager.MyListener - After Find Element By -->By.id: serialNumber
+23:42:45 INFO  manager.MyListener - Before Find Element By -->By.id: price
+23:42:45 INFO  manager.MyListener - After Find Element By -->By.id: price
+23:42:45 INFO  manager.MyListener - Before Find Element By -->By.id: distance
+23:42:45 INFO  manager.MyListener - After Find Element By -->By.id: distance
+23:42:45 INFO  manager.MyListener - Before Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:45 INFO  manager.MyListener - After Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:45 INFO  manager.MyListener - Before Find Element By -->By.id: about
+23:42:45 INFO  manager.MyListener - After Find Element By -->By.id: about
+23:42:46 INFO  manager.MyListener - Before Find Element By -->By.id: fuel
+23:42:46 INFO  manager.MyListener - After Find Element By -->By.id: fuel
+23:42:46 INFO  manager.MyListener - Before Find Element By -->By.id: gear
+23:42:46 INFO  manager.MyListener - After Find Element By -->By.id: gear
+23:42:46 INFO  manager.MyListener - Before Find Element By -->By.id: wheelsDrive
+23:42:46 INFO  manager.MyListener - After Find Element By -->By.id: wheelsDrive
+23:42:46 INFO  manager.MyListener - Before Find Element By -->By.id: photos
+23:42:46 INFO  manager.MyListener - After Find Element By -->By.id: photos
+23:42:46 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:46 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:47 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:47 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:47 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:47 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:48 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:48 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:48 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:48 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:48 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:42:49 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:42:49 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:49 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:49 INFO  manager.MyListener - Before Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:49 INFO  manager.MyListener - After Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:49 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:49 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+23:42:49 INFO  manager.MyListener - List size is -->1
+23:42:49 INFO  TestBase - Test starts with data--->Car(location=Haifa, Israel, make=BMW, model=M5, year=2020, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=4, seats=5, classCar=M, fuelConsumption=5, carRegistrationNumber=10-101099, distance=4500, price=99.9, featureS=plus, about=strong car)
+23:42:50 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:50 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Let the car work ']
+23:42:51 INFO  manager.MyListener - Before Find Element By -->By.id: pickUpPlace
+23:42:51 INFO  manager.MyListener - After Find Element By -->By.id: pickUpPlace
+23:42:51 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.pac-item
+23:42:51 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.pac-item
+23:42:52 INFO  manager.MyListener - Before Find Element By -->By.id: make
+23:42:52 INFO  manager.MyListener - After Find Element By -->By.id: make
+23:42:52 INFO  manager.MyListener - Before Find Element By -->By.id: model
+23:42:52 INFO  manager.MyListener - After Find Element By -->By.id: model
+23:42:52 INFO  manager.MyListener - Before Find Element By -->By.id: year
+23:42:52 INFO  manager.MyListener - After Find Element By -->By.id: year
+23:42:52 INFO  manager.MyListener - Before Find Element By -->By.id: engine
+23:42:53 INFO  manager.MyListener - After Find Element By -->By.id: engine
+23:42:53 INFO  manager.MyListener - Before Find Element By -->By.id: doors
+23:42:53 INFO  manager.MyListener - After Find Element By -->By.id: doors
+23:42:53 INFO  manager.MyListener - Before Find Element By -->By.id: seats
+23:42:53 INFO  manager.MyListener - After Find Element By -->By.id: seats
+23:42:53 INFO  manager.MyListener - Before Find Element By -->By.id: class
+23:42:53 INFO  manager.MyListener - After Find Element By -->By.id: class
+23:42:54 INFO  manager.MyListener - Before Find Element By -->By.id: fuelConsumption
+23:42:54 INFO  manager.MyListener - After Find Element By -->By.id: fuelConsumption
+23:42:54 INFO  manager.MyListener - Before Find Element By -->By.id: serialNumber
+23:42:54 INFO  manager.MyListener - After Find Element By -->By.id: serialNumber
+23:42:54 INFO  manager.MyListener - Before Find Element By -->By.id: price
+23:42:54 INFO  manager.MyListener - After Find Element By -->By.id: price
+23:42:54 INFO  manager.MyListener - Before Find Element By -->By.id: distance
+23:42:54 INFO  manager.MyListener - After Find Element By -->By.id: distance
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.xpath: //input[@placeholder='Type feature']
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.id: about
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.id: about
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.id: fuel
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.id: fuel
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.id: gear
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.id: gear
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.id: wheelsDrive
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.id: wheelsDrive
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.id: photos
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.id: photos
+23:42:55 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:55 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:56 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:56 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+23:42:57 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+23:42:59 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+23:42:59 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:59 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+23:42:59 INFO  manager.MyListener - Before Find Element By -->By.xpath: //button[text()='Search cars']
+23:42:59 INFO  manager.MyListener - After Find Element By -->By.xpath: //button[text()='Search cars']

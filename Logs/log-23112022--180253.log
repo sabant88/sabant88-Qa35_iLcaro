@@ -1,0 +1,30 @@
+18:03:02 INFO  manager.ApplicationManager - All tests start in  ChromeDriver
+18:03:08 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+18:03:11 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+18:03:11 INFO  manager.MyListener - List size is -->0
+18:03:11 INFO  manager.MyListener - Before Find Element By -->By.xpath: //a[.=' Sign up ']
+18:03:12 INFO  manager.MyListener - After Find Element By -->By.xpath: //a[.=' Sign up ']
+18:03:12 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #email
+18:03:12 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #email
+18:03:13 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #password
+18:03:13 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #password
+18:03:13 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #name
+18:03:13 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #name
+18:03:13 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: #lastName
+18:03:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: #lastName
+18:03:14 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+18:03:14 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+18:03:14 INFO  manager.MyListener - Before Find Element By -->By.xpath: //*[@type='submit']
+18:03:14 INFO  manager.MyListener - After Find Element By -->By.xpath: //*[@type='submit']
+18:03:14 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //a[.=' Logout ']
+18:03:15 INFO  manager.MyListener - After Find Elements By -->By.xpath: //a[.=' Logout ']
+18:03:15 INFO  manager.MyListener - List size is -->1
+18:03:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container
+18:03:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container
+18:03:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: div.dialog-container h1
+18:03:15 INFO  manager.MyListener - After Find Element By -->By.cssSelector: div.dialog-container h1
+18:03:15 INFO  manager.MyListener - Before Find Element By -->By.cssSelector: label[for='terms-of-use']
+18:03:16 INFO  manager.MyListener - After Find Element By -->By.cssSelector: label[for='terms-of-use']
+18:03:18 INFO  manager.MyListener - Before Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+18:03:21 INFO  manager.MyListener - After Find Elements By -->By.xpath: //*[@class='positive-button ng-star-inserted']
+18:03:21 INFO  manager.MyListener - List size is -->0

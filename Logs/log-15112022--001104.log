@@ -1,0 +1,6 @@
+00:11:13 INFO  manager.ApplicationManager - All tests start in Chrome Browser
+00:11:20 INFO  manager.HelperSearch - OS is --->Windows 10
+00:11:29 INFO  manager.HelperSearch - OS is --->Windows 10
+00:11:33 INFO  manager.HelperSearch - OS is --->Windows 10
+00:11:37 INFO  manager.HelperSearch - OS is --->Windows 10
+00:11:41 INFO  TestBase - Assert passed
